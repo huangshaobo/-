@@ -1,7 +1,7 @@
 # 1.uboot下载
 从u-boot官网下载最新u-boot文件
 ftp://ftp.denx.de/pub/u-boot/ 
- 
+  
 # 2.安装交叉编译工具
 https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 
